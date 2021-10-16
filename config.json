@@ -1,0 +1,37 @@
+{
+  "token": "discord_bot_token",
+  "prefix": "!",
+  "owner": "discord_bot_owner",
+  "music": [
+    {
+      "order": 1,
+      "file": "../../music/background-song-01.mp3"
+    },
+    {
+      "order": 2,
+      "file": "../../music/background-song-02.mp3"
+    },
+    {
+      "order": 3,
+      "file": "../../music/background-song-03.mp3"
+    },
+    {
+      "order": 4,
+      "file": "../../music/background-song-04.mp3"
+    }
+  ],
+  "shanty": [
+    {
+      "order": 1,
+      "file": "../../music/sea-shanty-01.mp3"
+    },
+    {
+      "order": 2,
+      "file": "../../music/sea-shanty-02.mp3"
+    },
+    {
+      "order": 3,
+      "file": "../../music/sea-shanty-03.mp3"
+    }
+  ]
+}
